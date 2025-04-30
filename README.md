@@ -56,7 +56,7 @@ Este projeto foi desenvolvido como parte de um processo seletivo para a área de
 ## 📬 Contato
 
 Ingrid – Estudante de Ciência da Computação  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/seu-usuario) | E-mail: Ingridloppess@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ingridloppess/) | [GitHub](https://github.com/ingridloppess) | E-mail: Ingridloppess@gmail.com
 
 ---
 
