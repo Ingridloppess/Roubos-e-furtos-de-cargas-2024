@@ -60,4 +60,7 @@ Ingrid – Estudante de Ciência da Computação
 
 ---
 
+![image](https://github.com/user-attachments/assets/10cabee3-547d-4ee0-82d6-98863153c3fd)
+
+
 
